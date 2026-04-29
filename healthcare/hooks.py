@@ -1,10 +1,10 @@
 app_name = "healthcare"
-app_title = "Marley Health"
-app_publisher = "earthians Health Informatics Pvt. Ltd."
+app_title = "GARP Health"
+app_publisher = "AICONEC"
 app_description = "Modern, Open Source HIS built on Frappe and ERPNext"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "info@earthianslive.com"
+app_email = "support@aiconec.com"
 app_license = "GNU GPL V3"
 required_apps = ["frappe/erpnext"]
 app_home = "/desk/healthcare"
