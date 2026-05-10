@@ -15,7 +15,7 @@ add_to_apps_screen = [
 		"logo": "/assets/healthcare/images/healthcare.svg",
 		"title": app_title,
 		"route": app_home,
-		"has_permission": "erpnext.check_app_permission",
+		"has_permission": "garperp.check_app_permission",
 	}
 ]
 
