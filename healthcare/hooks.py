@@ -1,7 +1,7 @@
 app_name = "healthcare"
 app_title = "GARP Health"
 app_publisher = "AICONEC"
-app_description = "Modern, Open Source HIS built on Frappe and ERPNext"
+app_description = "Modern, Open Source HIS for GARP ERP"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "support@aiconec.com"
@@ -12,7 +12,7 @@ app_home = "/desk/healthcare"
 add_to_apps_screen = [
 	{
 		"name": app_name,
-		"logo": "/assets/healthcare/images/healthcare.svg",
+		"logo": "/assets/healthcare/images/garp-health-icon.svg",
 		"title": app_title,
 		"route": app_home,
 		"has_permission": "healthcare.utils.check_app_permission",

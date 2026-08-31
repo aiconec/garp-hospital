@@ -16,7 +16,7 @@ def before_install():
 		return
 
 	click.secho(
-		f"You're attempting to install GARP Health develop branch on Frappe and ERPNext version {frappe_version}."
+		f"You're attempting to install GARP Health develop branch on GARP ERP version {frappe_version}."
 		"This is not supported and will result in broken install. Switch to correct branch before installing.",
 		fg="red",
 	)
