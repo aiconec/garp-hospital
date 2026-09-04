@@ -6,6 +6,8 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "support@aiconec.com"
 app_license = "GNU GPL V3"
+# AGPL/GPL source offer: the corresponding source of THIS modified version.
+source_link = "https://github.com/aiconec/garp-hospital"
 required_apps = ["garperp"]
 app_home = "/desk/healthcare"
 
